@@ -1,0 +1,9 @@
+D:\workspaces\c#workspace\handleWord\handleWord\bin\Debug\handleWord.exe.config
+D:\workspaces\c#workspace\handleWord\handleWord\bin\Debug\handleWord.exe
+D:\workspaces\c#workspace\handleWord\handleWord\bin\Debug\handleWord.pdb
+D:\workspaces\c#workspace\handleWord\handleWord\obj\Debug\handleWord.csprojResolveAssemblyReference.cache
+D:\workspaces\c#workspace\handleWord\handleWord\obj\Debug\handleWord.Form1.resources
+D:\workspaces\c#workspace\handleWord\handleWord\obj\Debug\handleWord.Properties.Resources.resources
+D:\workspaces\c#workspace\handleWord\handleWord\obj\Debug\handleWord.csproj.GenerateResource.Cache
+D:\workspaces\c#workspace\handleWord\handleWord\obj\Debug\handleWord.exe
+D:\workspaces\c#workspace\handleWord\handleWord\obj\Debug\handleWord.pdb
